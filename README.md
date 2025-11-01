@@ -10,6 +10,6 @@ A simple and secure Random Password Generator that creates strong, customizable 
 
 ⚡ Fast and lightweight — no dependencies required
 
-📋 Copy generated password to clipboard (optional)
+📋 Copy generated password to clipboard 
 
-💻 CLI and/or GUI support (depending on your version)
+💻 CLI and/or GUI support
